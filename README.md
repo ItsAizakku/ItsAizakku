@@ -1,4 +1,4 @@
-## Welcome 👋
+## What's up 👋
 
 ### *This README is still a WIP. Expect some things here to change or improve in the near future.*
 
@@ -7,7 +7,7 @@ The name is **Aizakku** (or *Aiza* for short), I'm 17 years old, Latin-American,
 Also I know I have no public repositories yet, but that'll change soon I promise LMAO
 
 ## Skills
-I have experience with both **HaxeFlixel** and **Lua**, but have also done some things with **GameMaker Studio 2**. I'm also trying to learn Godot as well.
+I have experience with both **HaxeFlixel** and **Lua**, but have also done some things with **GameMaker Studio 2**. I'm also trying to learn **Godot** as well.
 
 ## Projects I code/have coded for
 
@@ -22,18 +22,3 @@ I have experience with both **HaxeFlixel** and **Lua**, but have also done some 
 - [CrowPlexus](https://github.com/crowplexus): Being a big inspiration for me
 - [CarollVee](https://github.com/VitaminaCaroll) (<3), [Gazozoz](https://github.com/Gazozoz), [Luca](https://github.com/lucabio545), [JustJack8](https://github.com/JustJack8/JustJack8): Being awesome peeps :]
 - [luaxian](https://twitter.com/luaxian_): Drawing the PFP I'm currently using
-
-<!--
-**ItsAizakku/ItsAizakku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
