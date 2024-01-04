@@ -21,4 +21,4 @@ I have experience with both **HaxeFlixel** and **Lua**, but have also done some 
 
 - [CrowPlexus](https://github.com/crowplexus): Being a big inspiration for me
 - [CarollVee](https://github.com/VitaminaCaroll) (<3), [JustJack8](https://github.com/JustJack8/JustJack8), [Gazozoz](https://github.com/Gazozoz), [Luca](https://github.com/lucabio545): Being awesome peeps :]
-- [luaxian](https://twitter.com/luaxian_): Drawing the PFP I'm currently using
+- [Antkiin](https://twitter.com/Antkiin): Drawing the PFP I'm currently using
